@@ -15,4 +15,14 @@
     </li>
   </ol>
 </div>
-
+<div>
+  <h1 align="left" class="STYLE1"><strong>鸣谢：</strong></h1>
+  <ol class="STYLE2">
+    <li>
+      <h2 align="left"><a href="https://openwrt.mpdn.fun:8443/"> Bleach OpenWrt</a></h2>
+    </li>
+    <li>
+       <h2 align="left"><a href="https://mirror-03.infra.openwrt.org/releases/21.02.7/targets/x86/64/">官方kernel-5.4.238</a></h2>
+    </li>
+  </ol>
+</div>
