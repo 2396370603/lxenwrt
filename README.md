@@ -1,5 +1,8 @@
 # lxenwrt
-重新打包后的固件
+<body  bgcolor="#FFFF99">
+<div>
+  <div align="center"><h1 class="STYLE1">重新打包后的固件</h1>
+  </div>
 <div>
   <h1 align="left" class="STYLE1"><strong>简介：</strong></h1>
   <ol class="STYLE2">
@@ -8,7 +11,7 @@
     </li>
     <li>
       <h2>访问地址:<a href="http://192.168.3.1/">192.168.3.1</a> 用户名：root
-      密码：password 默认overlay分区为：2.0GB 引导分区：32MB</h2>
+      密码：password  默认overlay分区为：2.0GB 引导分区：32MB</h2>
     </li>
     <li>
       <h2 align="left">如果发现其它问题，请自行搜索解决！！！</h2>
